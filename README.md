@@ -2,9 +2,9 @@
 
 ## Datos del Estudiante
 
-**Nombre:** Kathlyn Morales
-**Asignatura:** Desarrollo de software VII
-**Fecha:** 2 Junio 2026
+Nombre: Kathlyn Morales
+Asignatura:Desarrollo de software VII
+Fecha: 2 de Junio 2026
 
 ---
 
@@ -178,29 +178,10 @@ Esto facilita la auditoría de accesos al sistema
 
 <img src="img3.png" width="500" height="300">
 
-Campos principales:
-
-* id
-* Nombre
-* Apellido
-* Sexo
-* Usuario
-* Correo
-* FechaDelSistema
-* HashMagic
-* secret_2fa
 
 ## Tabla intentos_login
 
 <img src="img2.png" width="500" height="300">
-
-Campos principales:
-
-* id
-* usuario
-* ipRemoto
-* timestamp
-* deteccion_anomala
 
 ---
 
